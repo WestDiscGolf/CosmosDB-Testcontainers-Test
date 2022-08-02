@@ -1,4 +1,4 @@
-namespace Api;
+﻿namespace Api.Tests.Models;
 
 public class WeatherForecast
 {
